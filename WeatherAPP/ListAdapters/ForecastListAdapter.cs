@@ -7,7 +7,7 @@ using WeatherApp.Models;
 using WeatherApp.Service;
 using System.Threading.Tasks;
 
-namespace WeatherApp.ListAdapters
+namespace WeatherAPP
 {
     public class ForecastListAdapter : BaseAdapter<WeatherItem>
     {
